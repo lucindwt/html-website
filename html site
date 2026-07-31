@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Favourite Cars</title>
+</head>
+<body>
+
+<header>
+  <nav><a href="#">Home</a> | <a href="#">About Us</a></nav>
+  <h1>My Favourite Cars™</h1>
+</header>
+
+<section>
+  <div>
+    <h2>Welcome to My Favourite Cars</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec justo in augue suscipit vestibulum. Nulla facilisi. Integer sit amet arcu ut sapien efficitur bibendum.</p>
+    <p>This website is dedicated to the cars I love the most. Explore different models, learn more about their features, and see why they are awesome!</p>
+  </div>
+  <div>[ Image Placeholder ]<br>(Featured Car)</div>
+</section>
+
+<section>
+  <div>
+    <h3>Top Car Brands I Love</h3>
+    <div>[ Image Placeholder ]<br>(Brand / Logo Image)</div>
+  </div>
+
+  <div>
+    <h3>Why I Love Cars</h3>
+    <ul>
+      <li>Performance</li>
+      <li>Design</li>
+      <li>Technology</li>
+      <li>Freedom</li>
+      <li>Passion</li>
+    </ul>
+  </div>
+
+  <div>
+    <h3>Top 3 Favourite Cars (In Order)</h3>
+    <ol>
+      <li>Toyota Supra</li>
+      <li>Nissan GT-R</li>
+      <li>Ford Mustang</li>
+    </ol>
+    <div>[ Image Placeholder ]<br>(Sport Car Image)</div>
+  </div>
+
+  <div>
+    <h3>Car Terms</h3>
+    <p><strong>Engine:</strong> The heart of the car that converts fuel into motion.</p>
+    <p><strong>Torque:</strong> The rotational force that helps a car accelerate.</p>
+    <p><strong>Horsepower:</strong> A measure of engine power.</p>
+    <div>[ Image Placeholder ]<br>(Engine Image)</div>
+  </div>
+</section>
+
+<h2>My Favourite Cars Comparison</h2>
+<table>
+  <tr>
+    <th>Car Model</th><th>Engine</th><th>Horsepower</th><th>Top Speed (km/h)</th><th>Drive Type</th><th>Price Range</th>
+  </tr>
+  <tr>
+    <td>Toyota Supra</td><td>3.0L 6-Cylinder</td><td>382 hp</td><td>250</td><td>Rear-Wheel Drive</td><td>R 900,000 – R 1,100,000</td>
+  </tr>
+  <tr>
+    <td>Nissan GT-R</td><td>3.8L V6 Twin-Turbo</td><td>565 hp</td><td>315</td><td>All-Wheel Drive</td><td>R 1,500,000 – R 1,800,000</td>
+  </tr>
+  <tr>
+    <td>Ford Mustang</td><td>5.0L V8</td><td>450 hp</td><td>250</td><td>Rear-Wheel Drive</td><td>R 700,000 – R 900,000</td>
+  </tr>
+</table>
+
+<footer>
+  <p>© 2025 My Favourite Cars. All rights reserved.</p>
+  <p>Built with passion for cars!</p>
+</footer>
+
+</body>
+</html
